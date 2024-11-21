@@ -4,10 +4,10 @@ CO2 is the most important greenhouse gas, responsible for about two-thirds of th
 Therefore, it is important to address this issue with a scalable and transparent approach. Through the use of an application that can calculate and measure carbon emissions generated from individual transportation, it is expected to better understand the impact of each person's contribution to climate change.
 
 ## About Data
-**Dependent Variable : CO2 contribution to global mean surface** [Data](https://ourworldindata.org/grapher/contribution-to-temp-rise-by-gas)
+[**Dependent Variable : CO2 contribution to global mean surface**](https://ourworldindata.org/grapher/contribution-to-temp-rise-by-gas)
 CO2 emissions come from various human activities, especially the burning of fossil fuels such as coal, oil, and natural gas. The contribution of CO2 emissions to global mean surface temperature greatly affects climate change and global warming.
 
-**Independent Variable : CO2 Emission form Transport** [Data](https://www.iea.org/data-and-statistics/charts/transport-sector-co2-emissions-by-mode-in-the-sustainable-development-scenario-2000-2030)
+[**Independent Variable : CO2 Emission form Transport**](https://www.iea.org/data-and-statistics/charts/transport-sector-co2-emissions-by-mode-in-the-sustainable-development-scenario-2000-2030)
 Carbon dioxide (CO2) emissions from the transportation sector refer to the amount of greenhouse gases produced by different modes of transportation during activities. A commonly used unit for measuring carbon dioxide (CO2) emissions from the transportation sector is the “Gt” or gigaton, which is equivalent to one billion metric tons.
 Factors contributing to CO2 emissions from the transportation sector involve various modes of transportation:
 | **Category**               | **Description**                                                                                   | **Examples**                                                                 |
