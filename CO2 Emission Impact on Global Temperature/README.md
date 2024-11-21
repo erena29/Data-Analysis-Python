@@ -12,14 +12,14 @@ CO2 emissions come from various human activities, especially the burning of foss
 
 Carbon dioxide (CO2) emissions from the transportation sector refer to the amount of greenhouse gases produced by different modes of transportation during activities. A commonly used unit for measuring carbon dioxide (CO2) emissions from the transportation sector is the “Gt” or gigaton, which is equivalent to one billion metric tons.
 Factors contributing to CO2 emissions from the transportation sector involve various modes of transportation:
-| **Category**               | **Description**                                                                                   | **Examples**                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Passenger Road Vehicles** | Vehicles designed to carry passengers on roads.                                                  | Passenger cars, buses, public transportation vehicles                        |
-| **Aviation**                | Aircraft used for the transportation of passengers or cargo by air.                              | Commercial aircraft, private aircraft, cargo aircraft                        |
-| **Road Freight Vehicles**   | Vehicles designed to transport cargo and goods over highways.                                    | Freight trucks, heavy goods trucks, other commercial vehicles                |
-| **Rail**                    | Rail transportation systems that use rails to transport passengers and cargo.                    | Passenger trains, freight trains, other trains                               |
-| **Shipping**                | Transportation by sea using ships or ocean-going vessels. Includes the transportation of cargo.  | Freighters, passenger ferries, cruise ships                                  |
-| **Other**                   | Other transportation sectors not specifically covered in the above categories.                   | Pipeline transportation, inter-island transportation, innovative methods     |
+| **Category**               | **Description**                                                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Passenger Road Vehicles** | Passenger road vehicles include vehicles such as passenger cars, buses, and other public transportation vehicles designed to carry passengers on roads. |
+| **Aviation**                | Aviation involves aircraft used for the transportation of passengers or cargo by air. Includes commercial aircraft, private aircraft, and cargo aircraft. |
+| **Road Freight Vehicles**   | Road freight vehicles refer to vehicles designed to transport cargo and goods over highways. Examples include freight trucks, heavy goods trucks, and other commercial vehicles. |
+| **Rail**                    | Rail refers to rail transportation systems that use rails to transport passengers and cargo. Includes passenger trains, freight trains, and other trains. |
+| **Shipping**                | Shipping relates to transportation by sea using ships or ocean-going vessels. Involves the transportation of cargo and passengers at sea, and can include freighters, passenger ferries, and cruise ships. |
+| **Other**                   | A category that includes other transportation sectors not specifically covered in the above categories. Includes modes of transportation such as pipeline transportation, inter-island transportation, or other innovative transportation methods. |
 
 ---
 
